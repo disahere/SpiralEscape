@@ -28,7 +28,7 @@ The task is to develop a hyper-casual game using Unity3D/Contruct or any alterna
    - FPS count
    - Score count
 >
-> 5. GameMenu
+> 5. AfterGameMenu
    - Restart button
    - Home button
    - Score count
