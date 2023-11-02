@@ -10,7 +10,7 @@ The task is to develop a hyper-casual game using Unity3D/Contruct or any alterna
    - Exit button
    - Shop button
    - Reset(score) button
-   - User name
+   - User name 
    - User avatar
    - BestScore count
 >
