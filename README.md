@@ -14,7 +14,7 @@ The task is to develop a hyper-casual game using Unity3D/Contruct or any alterna
    - User avatar
    - BestScore count 
 >
-> 2. Shop menu     
+> 2. Shop menu      
    - Coming soon   
 >
 > 3. Settings Menu
