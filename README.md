@@ -15,7 +15,7 @@ The task is to develop a hyper-casual game using Unity3D/Contruct or any alterna
    - BestScore count 
 >
 > 2. Shop menu
-   - Coming soon
+   - Coming soon 
 >
 > 3. Settings Menu
    - Show FPS
